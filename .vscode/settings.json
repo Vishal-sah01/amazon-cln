@@ -1,3 +1,10 @@
 {
-    "editor.codeActionsOnSave": null
+    "editor.codeActionsOnSave": null,
+    "workbench.colorCustomizations": {
+    
+    },
+    "workbench.settings.editor": "json",
+    "workbench.editorAssociations": {},
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "'Gilroy-Light',Consolas, 'Courier New', monospace"
 }
